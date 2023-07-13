@@ -1,3 +1,4 @@
+![logo](https://github.com/PratikshaKale/PratikshaKale/blob/main/Banner.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Pratiksha Kale</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
